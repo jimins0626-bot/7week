@@ -1,0 +1,18 @@
+Python virtual environment
+
+.venv/
+venv/
+ENV/
+
+Media video files (Too large for GitHub)
+
+*.mp4
+*.avi
+*.mov
+
+VS Code / OS specific files
+
+.vscode/
+pycache/
+*.pyc
+.DS_Store
